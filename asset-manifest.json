@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/project-Oechul-front/static/css/main.3c96b088.chunk.css",
+    "main.css": "/project-Oechul-front/static/css/main.181d660b.chunk.css",
     "main.js": "/project-Oechul-front/static/js/main.fe38bd88.chunk.js",
     "main.js.map": "/project-Oechul-front/static/js/main.fe38bd88.chunk.js.map",
     "runtime~main.js": "/project-Oechul-front/static/js/runtime~main.6771ab1f.js",
@@ -8,8 +8,8 @@
     "static/js/2.e12f9327.chunk.js": "/project-Oechul-front/static/js/2.e12f9327.chunk.js",
     "static/js/2.e12f9327.chunk.js.map": "/project-Oechul-front/static/js/2.e12f9327.chunk.js.map",
     "index.html": "/project-Oechul-front/index.html",
-    "precache-manifest.e343874baa6331d54c46c3ef65bc5acc.js": "/project-Oechul-front/precache-manifest.e343874baa6331d54c46c3ef65bc5acc.js",
+    "precache-manifest.46f07d48af2d491833af811108ce19f5.js": "/project-Oechul-front/precache-manifest.46f07d48af2d491833af811108ce19f5.js",
     "service-worker.js": "/project-Oechul-front/service-worker.js",
-    "static/css/main.3c96b088.chunk.css.map": "/project-Oechul-front/static/css/main.3c96b088.chunk.css.map"
+    "static/css/main.181d660b.chunk.css.map": "/project-Oechul-front/static/css/main.181d660b.chunk.css.map"
   }
 }
