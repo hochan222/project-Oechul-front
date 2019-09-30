@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/project-Oechul-front/precache-manifest.6e0fcf2628ef53ee2fedcce8ee2463bb.js"
+  "/project-Oechul-front/precache-manifest.fb90a2a35e67496cdf1cb2995ac3f0ed.js"
 );
 
 self.addEventListener('message', (event) => {
