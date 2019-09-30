@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1110b86bcbe4450d543da36b78f25670",
+    "revision": "cfc2d8400518b148233bc8a5809f2036",
     "url": "/project-Oechul-front/index.html"
   },
   {
-    "revision": "235f81e7b934c42e0341",
-    "url": "/project-Oechul-front/static/css/main.35a33651.chunk.css"
+    "revision": "af2cf887ef5f5cade3c9",
+    "url": "/project-Oechul-front/static/css/main.9de13a9d.chunk.css"
   },
   {
-    "revision": "fd3d60f909ebfde2ac89",
-    "url": "/project-Oechul-front/static/js/2.e12f9327.chunk.js"
+    "revision": "80141b6d857472e01484",
+    "url": "/project-Oechul-front/static/js/2.8af9664f.chunk.js"
   },
   {
-    "revision": "235f81e7b934c42e0341",
-    "url": "/project-Oechul-front/static/js/main.d98e215e.chunk.js"
+    "revision": "af2cf887ef5f5cade3c9",
+    "url": "/project-Oechul-front/static/js/main.b5726a09.chunk.js"
   },
   {
     "revision": "93d50d395e4ae33f6d10",
