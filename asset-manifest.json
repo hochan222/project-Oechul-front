@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/project-Oechul-front/static/css/main.9de13a9d.chunk.css",
-    "main.js": "/project-Oechul-front/static/js/main.b5726a09.chunk.js",
-    "main.js.map": "/project-Oechul-front/static/js/main.b5726a09.chunk.js.map",
+    "main.css": "/project-Oechul-front/static/css/main.fd761911.chunk.css",
+    "main.js": "/project-Oechul-front/static/js/main.fcd67390.chunk.js",
+    "main.js.map": "/project-Oechul-front/static/js/main.fcd67390.chunk.js.map",
     "runtime~main.js": "/project-Oechul-front/static/js/runtime~main.6771ab1f.js",
     "runtime~main.js.map": "/project-Oechul-front/static/js/runtime~main.6771ab1f.js.map",
-    "static/js/2.8af9664f.chunk.js": "/project-Oechul-front/static/js/2.8af9664f.chunk.js",
-    "static/js/2.8af9664f.chunk.js.map": "/project-Oechul-front/static/js/2.8af9664f.chunk.js.map",
+    "static/js/2.fb25e5fd.chunk.js": "/project-Oechul-front/static/js/2.fb25e5fd.chunk.js",
+    "static/js/2.fb25e5fd.chunk.js.map": "/project-Oechul-front/static/js/2.fb25e5fd.chunk.js.map",
     "index.html": "/project-Oechul-front/index.html",
-    "precache-manifest.7717e8cde7c188e474e0eb1c366279d1.js": "/project-Oechul-front/precache-manifest.7717e8cde7c188e474e0eb1c366279d1.js",
+    "precache-manifest.6d110b543a183abf4fe9c9001431f977.js": "/project-Oechul-front/precache-manifest.6d110b543a183abf4fe9c9001431f977.js",
     "service-worker.js": "/project-Oechul-front/service-worker.js",
-    "static/css/main.9de13a9d.chunk.css.map": "/project-Oechul-front/static/css/main.9de13a9d.chunk.css.map",
-    "static/media/style.scss": "/project-Oechul-front/static/media/1.02b28120.jpg"
+    "static/css/main.fd761911.chunk.css.map": "/project-Oechul-front/static/css/main.fd761911.chunk.css.map"
   }
 }
